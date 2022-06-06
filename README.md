@@ -1,6 +1,6 @@
 # Formation_csharp_premier_projet
 
-Prmier projet de la formation C# Udemy
+Premier projet de la formation C# Udemy
 
 https://www.udemy.com/course/developpeur-cs-formation-complete/
 
